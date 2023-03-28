@@ -4,8 +4,8 @@
 
 ### Main Figures
 
-#### Figure 01: Cluster Analysis and Phylogeny of Ligand groups.
-#### Figure 02: 
+##### Figure01_LigandsCLANSTreesColoured.pdf
+##### Figure02_LigandsReconciliationGrid.pdf
 
 ### Supplementary Figures
 
