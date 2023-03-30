@@ -8,8 +8,8 @@
 
 ### Supplementary Material
 
-##### Supplementary Figures
+##### * Supplementary Figures
 
-##### Supplementary Tables
+##### * Supplementary Tables
 
-##### Supplementary Files
+##### * Supplementary Files
