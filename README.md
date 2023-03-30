@@ -6,7 +6,7 @@
 
 ##### All main Figures together with their captions.
 
-### Supplementary Figures
+### Supplementary Material
 
 ##### Supplementary Figures
 
