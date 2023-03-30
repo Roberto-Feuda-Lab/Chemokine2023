@@ -4,11 +4,12 @@
 
 ### Main Figures
 
-##### Figure01_LigandsCLANSTreesColoured.pdf
-##### Figure02_LigandsReconciliationGrid.pdf
+##### All main Figures together with their captions.
 
 ### Supplementary Figures
 
-### Supplementary Tables
+##### Supplementary Figures
 
-### Supplementary Files
+##### Supplementary Tables
+
+##### Supplementary Files
