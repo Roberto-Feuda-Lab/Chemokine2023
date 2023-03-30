@@ -8,8 +8,6 @@
 
 ### Supplementary Material
 
-##### * Supplementary Figures
-
-##### * Supplementary Tables
-
-##### * Supplementary Files
+##### Markup: * Supplementary Figures
+              * Supplementary Tables
+              * Supplementary Files
