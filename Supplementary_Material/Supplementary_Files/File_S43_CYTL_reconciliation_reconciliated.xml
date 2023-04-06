@@ -1,0 +1,808 @@
+<recPhylo 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.recg.org ./recGeneTreeXML.xsd"
+	xmlns="http://www.recg.org">
+<spTree>
+<phylogeny>
+<clade>
+		<name>node_62</name>
+	<clade>
+			<name>node_0</name>
+		<clade>
+				<name>node_1</name>
+			<clade>
+					<name>node_2</name>
+				<clade>
+						<name>node_3</name>
+					<clade>
+							<name>node_4</name>
+						<clade>
+								<name>node_5</name>
+							<clade>
+									<name>node_6</name>
+								<clade>
+										<name>node_7</name>
+									<clade>
+											<name>node_8</name>
+										<clade>
+												<name>node_9</name>
+											<clade>
+													<name>node_10</name>
+												<clade>
+														<name>node_11</name>
+													<clade>
+															<name>node_12</name>
+														<clade>
+																<name>node_13</name>
+															<clade>
+																	<name>node_14</name>
+																<clade>
+																		<name>node_15</name>
+																	<clade>
+																			<name>node_16</name>
+																		<clade>
+																				<name>node_17</name>
+																			<clade>
+																					<name>node_18</name>
+																				<clade>
+																						<name>MetazoaVertebrateEP00073Rattusnorvegicus</name>
+																				</clade>
+																				<clade>
+																						<name>MetazoaVertebrateMusmusculus</name>
+																				</clade>
+																			</clade>
+																			<clade>
+																					<name>node_19</name>
+																				<clade>
+																						<name>MetazoaVertebrateGorillagorilla</name>
+																				</clade>
+																				<clade>
+																						<name>MetazoaVertebrateHomosapiens</name>
+																				</clade>
+																			</clade>
+																		</clade>
+																		<clade>
+																				<name>node_20</name>
+																			<clade>
+																					<name>MetazoaVertebrateEP00070Physetermacrocephalus</name>
+																			</clade>
+																			<clade>
+																					<name>MetazoaVertebrateEP00071Canislupus</name>
+																			</clade>
+																		</clade>
+																	</clade>
+																	<clade>
+																			<name>MetazoaVertebrateMonodelphisdomestica</name>
+																	</clade>
+																</clade>
+																<clade>
+																		<name>MetazoaVertebrateOrnithorhynchusanatinus</name>
+																</clade>
+															</clade>
+															<clade>
+																	<name>node_21</name>
+																<clade>
+																		<name>node_22</name>
+																	<clade>
+																			<name>node_23</name>
+																		<clade>
+																				<name>node_24</name>
+																			<clade>
+																					<name>MetazoaVertebrateEP00075Anasplatyrhynchos</name>
+																			</clade>
+																			<clade>
+																					<name>MetazoaVertebrateGallusgallus</name>
+																			</clade>
+																		</clade>
+																		<clade>
+																				<name>MetazoaVertebrateTaeniopygiaguttata</name>
+																		</clade>
+																	</clade>
+																	<clade>
+																			<name>MetazoaVertebrateEP00077Pelodiscussinensis</name>
+																	</clade>
+																</clade>
+																<clade>
+																		<name>MetazoaVertebrateAnoliscarolinensis</name>
+																</clade>
+															</clade>
+														</clade>
+														<clade>
+																<name>MetazoaVertebrateEP00079Xenopustropicalis</name>
+														</clade>
+													</clade>
+													<clade>
+															<name>MetazoaVertebrateEP00068Latimeriachalumnae</name>
+													</clade>
+												</clade>
+												<clade>
+														<name>node_25</name>
+													<clade>
+															<name>node_26</name>
+														<clade>
+																<name>node_27</name>
+															<clade>
+																	<name>node_28</name>
+																<clade>
+																		<name>node_29</name>
+																	<clade>
+																			<name>MetazoaVertebrateEP00064Thunnusorientalis</name>
+																	</clade>
+																	<clade>
+																			<name>MetazoaVertebrateScophthalmusmaximus</name>
+																	</clade>
+																</clade>
+																<clade>
+																		<name>node_30</name>
+																	<clade>
+																			<name>MetazoaVertebrateEP00065Molamola</name>
+																	</clade>
+																	<clade>
+																			<name>MetazoaVertebrateEP00066Takifugurubripes</name>
+																	</clade>
+																</clade>
+															</clade>
+															<clade>
+																	<name>MetazoaVertebratePoeciliamexicana</name>
+															</clade>
+														</clade>
+														<clade>
+																<name>MetazoaVertebrateEP00063Salmosalar</name>
+														</clade>
+													</clade>
+													<clade>
+															<name>MetazoaVertebrateDaniorerio</name>
+													</clade>
+												</clade>
+											</clade>
+											<clade>
+													<name>MetazoaVertebrateEP00062Callorhinchusmilii</name>
+											</clade>
+										</clade>
+										<clade>
+												<name>node_31</name>
+											<clade>
+													<name>MetazoaVertebrateEptatretusburgeri</name>
+											</clade>
+											<clade>
+													<name>MetazoaVertebratePetromyzonmarinus</name>
+											</clade>
+										</clade>
+									</clade>
+									<clade>
+											<name>node_32</name>
+										<clade>
+												<name>node_33</name>
+											<clade>
+													<name>MetazoaUrochordataCionasavignyi</name>
+											</clade>
+											<clade>
+													<name>MetazoaUrochordataEP00059Cionaintestinalis</name>
+											</clade>
+										</clade>
+										<clade>
+												<name>MetazoaUrochordataOikopleuradioica</name>
+										</clade>
+									</clade>
+								</clade>
+								<clade>
+										<name>node_34</name>
+									<clade>
+											<name>node_35</name>
+										<clade>
+												<name>MetazoaCephalochordataBranchiostomafloridae</name>
+										</clade>
+										<clade>
+												<name>MetazoaCephalochordataBranchiostomalanceolatum</name>
+										</clade>
+									</clade>
+									<clade>
+											<name>MetazoaCephalochordataBranchiostomabelcheri</name>
+									</clade>
+								</clade>
+							</clade>
+							<clade>
+									<name>node_36</name>
+								<clade>
+										<name>node_37</name>
+									<clade>
+											<name>node_38</name>
+										<clade>
+												<name>MetazoaEchinodermataAcanthasterplanci</name>
+										</clade>
+										<clade>
+												<name>MetazoaEchinodermataPatiriaminiata</name>
+										</clade>
+									</clade>
+									<clade>
+											<name>node_39</name>
+										<clade>
+												<name>MetazoaEchinodermataEP00057Strongylocentrotuspurpuratus</name>
+										</clade>
+										<clade>
+												<name>MetazoaEchinodermataStichopusjaponicus</name>
+										</clade>
+									</clade>
+								</clade>
+								<clade>
+										<name>node_40</name>
+									<clade>
+											<name>MetazoaHemichordataPtychoderaflava</name>
+									</clade>
+									<clade>
+											<name>MetazoaHemichordataSaccoglossuskowalevskii</name>
+									</clade>
+								</clade>
+							</clade>
+						</clade>
+						<clade>
+								<name>node_41</name>
+							<clade>
+									<name>node_42</name>
+								<clade>
+										<name>node_43</name>
+									<clade>
+											<name>node_44</name>
+										<clade>
+												<name>node_45</name>
+											<clade>
+													<name>node_46</name>
+												<clade>
+														<name>node_47</name>
+													<clade>
+															<name>MetazoaArthropodaDrosophilamelanogaster</name>
+													</clade>
+													<clade>
+															<name>MetazoaArthropodaEP00098Triboliumcastaneum</name>
+													</clade>
+												</clade>
+												<clade>
+														<name>MetazoaArthropodaApismellifera</name>
+												</clade>
+											</clade>
+											<clade>
+													<name>MetazoaArthropodaOrchesellacincta</name>
+											</clade>
+										</clade>
+										<clade>
+												<name>node_48</name>
+											<clade>
+													<name>node_49</name>
+												<clade>
+														<name>MetazoaArthropodaEP00090Calanusglacialis</name>
+												</clade>
+												<clade>
+														<name>MetazoaArthropodaEP00094Tigriopuscalifornicus</name>
+												</clade>
+											</clade>
+											<clade>
+													<name>MetazoaArthropodaDaphniapulex</name>
+											</clade>
+										</clade>
+									</clade>
+									<clade>
+											<name>node_50</name>
+										<clade>
+												<name>MetazoaArthropodaDinothrombiumtinctorium</name>
+										</clade>
+										<clade>
+												<name>MetazoaArthropodaStrigamiamaritima</name>
+										</clade>
+									</clade>
+								</clade>
+								<clade>
+										<name>node_51</name>
+									<clade>
+											<name>node_52</name>
+										<clade>
+												<name>node_53</name>
+											<clade>
+													<name>node_54</name>
+												<clade>
+														<name>MetazoaNematodaCaenorhabditiselegans</name>
+												</clade>
+												<clade>
+														<name>MetazoaNematodaTrichinellaspiralis</name>
+												</clade>
+											</clade>
+											<clade>
+													<name>MetazoaTardigradaRamazzotiusvarieornatus</name>
+											</clade>
+										</clade>
+										<clade>
+												<name>MetazoaPlatyhelminthesEchinococcusmultilocularis</name>
+										</clade>
+									</clade>
+									<clade>
+											<name>MetazoaRotiferaAdinetavaga</name>
+									</clade>
+								</clade>
+							</clade>
+							<clade>
+									<name>node_55</name>
+								<clade>
+										<name>node_56</name>
+									<clade>
+											<name>node_57</name>
+										<clade>
+												<name>node_58</name>
+											<clade>
+													<name>MetazoaMolluscaEP00105Crassostreagigas</name>
+											</clade>
+											<clade>
+													<name>MetazoaMolluscaLottiagigantea</name>
+											</clade>
+										</clade>
+										<clade>
+												<name>MetazoaBrachiopodaLingulaunguis</name>
+										</clade>
+									</clade>
+									<clade>
+											<name>node_59</name>
+										<clade>
+												<name>MetazoaAnnelidaEP00103Capitellateleta</name>
+										</clade>
+										<clade>
+												<name>MetazoaAnnelidaHelobdellarobusta</name>
+										</clade>
+									</clade>
+								</clade>
+								<clade>
+										<name>MetazoaBryozoaBugulaneritina</name>
+								</clade>
+							</clade>
+						</clade>
+					</clade>
+					<clade>
+							<name>MetazoaAcoelaHofsteniamiamia</name>
+					</clade>
+				</clade>
+				<clade>
+						<name>node_60</name>
+					<clade>
+							<name>MetazoaCnidariaClytiahemisphaerica</name>
+					</clade>
+					<clade>
+							<name>MetazoaCnidariaNematostellavectensis</name>
+					</clade>
+				</clade>
+			</clade>
+			<clade>
+					<name>MetazoaPlacozoaEP00114TrichoplaxspH2</name>
+			</clade>
+		</clade>
+		<clade>
+				<name>MetazoaCtenophoraMnemiopsisleidyi</name>
+		</clade>
+	</clade>
+	<clade>
+			<name>node_61</name>
+		<clade>
+				<name>MetazoaPoriferaEP00119Amphimedonqueenslandica</name>
+		</clade>
+		<clade>
+				<name>MetazoaPoriferaSyconciliatum</name>
+		</clade>
+	</clade>
+</clade>
+</phylogeny>
+</spTree>
+<recGeneTree>
+<phylogeny rooted="true">
+<clade>
+	<name>NULL</name>
+	<eventsRec>
+		<speciation speciesLocation="node_9"/>
+	</eventsRec>
+	<clade>
+		<name>100</name>
+		<eventsRec>
+			<duplication speciesLocation="node_10"/>
+		</eventsRec>
+		<clade>
+			<name>61</name>
+			<eventsRec>
+				<speciation speciesLocation="node_10"/>
+			</eventsRec>
+			<clade>
+				<name>66</name>
+				<eventsRec>
+					<speciation speciesLocation="node_11"/>
+				</eventsRec>
+				<clade>
+					<name>MetazoaVertebrateEP00068Latimeriachalumnae_5783257__CYTL1_HUMAN_Cytokine-like_protein_1_OS_</name>
+					<eventsRec>
+						<leaf speciesLocation="MetazoaVertebrateEP00068Latimeriachalumnae"/>
+					</eventsRec>
+				</clade>
+				<clade>
+					<name>91</name>
+					<eventsRec>
+						<speciation speciesLocation="node_12"/>
+					</eventsRec>
+					<clade>
+						<name>73</name>
+						<eventsRec>
+							<speciation speciesLocation="node_13"/>
+						</eventsRec>
+						<clade>
+							<name>99</name>
+							<eventsRec>
+								<speciation speciesLocation="node_14"/>
+							</eventsRec>
+							<clade>
+								<name>73</name>
+								<eventsRec>
+									<speciation speciesLocation="node_15"/>
+								</eventsRec>
+								<clade>
+									<name>68</name>
+									<eventsRec>
+										<speciation speciesLocation="node_16"/>
+									</eventsRec>
+									<clade>
+										<name>100</name>
+										<eventsRec>
+											<speciation speciesLocation="node_17"/>
+										</eventsRec>
+										<clade>
+											<name>100</name>
+											<eventsRec>
+												<speciation speciesLocation="node_19"/>
+											</eventsRec>
+											<clade>
+												<name>MetazoaVertebrateGorillagorilla_6439500__CYTL1_HUMAN_Cytokine-like_protein_1_OS_</name>
+												<eventsRec>
+													<leaf speciesLocation="MetazoaVertebrateGorillagorilla"/>
+												</eventsRec>
+											</clade>
+											<clade>
+												<name>MetazoaVertebrateHomosapiens_6468671__CYTL1_HUMAN_Cytokine-like_protein_1_OS_</name>
+												<eventsRec>
+													<leaf speciesLocation="MetazoaVertebrateHomosapiens"/>
+												</eventsRec>
+											</clade>
+										</clade>
+										<clade>
+											<name>98</name>
+											<eventsRec>
+												<speciation speciesLocation="node_18"/>
+											</eventsRec>
+											<clade>
+												<name>MetazoaVertebrateEP00073Rattusnorvegicus_6019985__CYTL1_HUMAN_Cytokine-like_protein_1_OS_</name>
+												<eventsRec>
+													<leaf speciesLocation="MetazoaVertebrateEP00073Rattusnorvegicus"/>
+												</eventsRec>
+											</clade>
+											<clade>
+												<name>MetazoaVertebrateMusmusculus_6528102__CYTL1_HUMAN_Cytokine-like_protein_1_OS_</name>
+												<eventsRec>
+													<leaf speciesLocation="MetazoaVertebrateMusmusculus"/>
+												</eventsRec>
+											</clade>
+										</clade>
+									</clade>
+									<clade>
+										<name>65</name>
+										<eventsRec>
+											<speciation speciesLocation="node_20"/>
+										</eventsRec>
+										<clade>
+											<name>MetazoaVertebrateEP00071Canislupus_5932683__CYTL1_HUMAN_Cytokine-like_protein_1_OS_</name>
+											<eventsRec>
+												<leaf speciesLocation="MetazoaVertebrateEP00071Canislupus"/>
+											</eventsRec>
+										</clade>
+										<clade>
+											<name>MetazoaVertebrateEP00070Physetermacrocephalus_5865956__CYTL1_HUMAN_Cytokine-like_protein_1_OS_</name>
+											<eventsRec>
+												<leaf speciesLocation="MetazoaVertebrateEP00070Physetermacrocephalus"/>
+											</eventsRec>
+										</clade>
+									</clade>
+								</clade>
+								<clade>
+									<name>MetazoaVertebrateMonodelphisdomestica_6517944__CYTL1_HUMAN_Cytokine-like_protein_1_OS_</name>
+									<eventsRec>
+										<leaf speciesLocation="MetazoaVertebrateMonodelphisdomestica"/>
+									</eventsRec>
+								</clade>
+							</clade>
+							<clade>
+								<name>100</name>
+								<eventsRec>
+									<duplication speciesLocation="MetazoaVertebrateOrnithorhynchusanatinus"/>
+								</eventsRec>
+								<clade>
+									<name>MetazoaVertebrateOrnithorhynchusanatinus_6554085__CYTL1_HUMAN_Cytokine-like_protein_1_OS_</name>
+									<eventsRec>
+										<leaf speciesLocation="MetazoaVertebrateOrnithorhynchusanatinus"/>
+									</eventsRec>
+								</clade>
+								<clade>
+									<name>MetazoaVertebrateOrnithorhynchusanatinus_6554086__CYTL1_HUMAN_Cytokine-like_protein_1_OS_</name>
+									<eventsRec>
+										<leaf speciesLocation="MetazoaVertebrateOrnithorhynchusanatinus"/>
+									</eventsRec>
+								</clade>
+							</clade>
+						</clade>
+						<clade>
+							<name>93</name>
+							<eventsRec>
+								<speciation speciesLocation="node_21"/>
+							</eventsRec>
+								<clade>
+								<name>loss</name>
+								<eventsRec>
+									<loss speciesLocation="MetazoaVertebrateAnoliscarolinensis"/>
+								</eventsRec>
+							</clade>
+							<clade>
+								<name>93</name>
+								<eventsRec>
+									<speciation speciesLocation="node_22"/>
+								</eventsRec>
+								<clade>
+									<name>96</name>
+									<eventsRec>
+										<speciation speciesLocation="node_23"/>
+									</eventsRec>
+									<clade>
+										<name>95</name>
+										<eventsRec>
+											<speciation speciesLocation="node_24"/>
+										</eventsRec>
+										<clade>
+											<name>100</name>
+											<eventsRec>
+												<duplication speciesLocation="MetazoaVertebrateEP00075Anasplatyrhynchos"/>
+											</eventsRec>
+											<clade>
+												<name>MetazoaVertebrateEP00075Anasplatyrhynchos_6181708__CYTL1_HUMAN_Cytokine-like_protein_1_OS_</name>
+												<eventsRec>
+													<leaf speciesLocation="MetazoaVertebrateEP00075Anasplatyrhynchos"/>
+												</eventsRec>
+											</clade>
+											<clade>
+												<name>MetazoaVertebrateEP00075Anasplatyrhynchos_6195052__CYTL1_HUMAN_Cytokine-like_protein_1_OS_</name>
+												<eventsRec>
+													<leaf speciesLocation="MetazoaVertebrateEP00075Anasplatyrhynchos"/>
+												</eventsRec>
+											</clade>
+										</clade>
+										<clade>
+											<name>MetazoaVertebrateGallusgallus_6423650__CYTL1_HUMAN_Cytokine-like_protein_1_OS_</name>
+											<eventsRec>
+												<leaf speciesLocation="MetazoaVertebrateGallusgallus"/>
+											</eventsRec>
+										</clade>
+									</clade>
+									<clade>
+										<name>MetazoaVertebrateTaeniopygiaguttata_6631515__CYTL1_HUMAN_Cytokine-like_protein_1_OS_</name>
+										<eventsRec>
+											<leaf speciesLocation="MetazoaVertebrateTaeniopygiaguttata"/>
+										</eventsRec>
+									</clade>
+								</clade>
+								<clade>
+									<name>MetazoaVertebrateEP00077Pelodiscussinensis_6279781__CYTL1_HUMAN_Cytokine-like_protein_1_OS_</name>
+									<eventsRec>
+										<leaf speciesLocation="MetazoaVertebrateEP00077Pelodiscussinensis"/>
+									</eventsRec>
+								</clade>
+							</clade>
+						</clade>
+					</clade>
+					<clade>
+						<name>MetazoaVertebrateEP00079Xenopustropicalis_6355086__CYTL1_HUMAN_Cytokine-like_protein_1_OS_</name>
+						<eventsRec>
+							<leaf speciesLocation="MetazoaVertebrateEP00079Xenopustropicalis"/>
+						</eventsRec>
+					</clade>
+				</clade>
+			</clade>
+			<clade>
+				<name>75</name>
+				<eventsRec>
+					<speciation speciesLocation="node_25"/>
+				</eventsRec>
+				<clade>
+					<name>MetazoaVertebrateDaniorerio_5416455_</name>
+					<eventsRec>
+						<leaf speciesLocation="MetazoaVertebrateDaniorerio"/>
+					</eventsRec>
+				</clade>
+				<clade>
+					<name>0</name>
+					<eventsRec>
+						<speciation speciesLocation="node_26"/>
+					</eventsRec>
+					<clade>
+						<name>58</name>
+						<eventsRec>
+							<duplication speciesLocation="MetazoaVertebrateEP00063Salmosalar"/>
+						</eventsRec>
+						<clade>
+							<name>MetazoaVertebrateEP00063Salmosalar_5533329__CYTL1_HUMAN_Cytokine-like_protein_1_OS_</name>
+							<eventsRec>
+								<leaf speciesLocation="MetazoaVertebrateEP00063Salmosalar"/>
+							</eventsRec>
+						</clade>
+						<clade>
+							<name>MetazoaVertebrateEP00063Salmosalar_5579275__CYTL1_HUMAN_Cytokine-like_protein_1_OS_</name>
+							<eventsRec>
+								<leaf speciesLocation="MetazoaVertebrateEP00063Salmosalar"/>
+							</eventsRec>
+						</clade>
+					</clade>
+					<clade>
+						<name>99</name>
+						<eventsRec>
+							<speciation speciesLocation="node_27"/>
+						</eventsRec>
+						<clade>
+							<name>MetazoaVertebratePoeciliamexicana_6586831__CYTL1_HUMAN_Cytokine-like_protein_1_OS_</name>
+							<eventsRec>
+								<leaf speciesLocation="MetazoaVertebratePoeciliamexicana"/>
+							</eventsRec>
+						</clade>
+						<clade>
+							<name>40</name>
+							<eventsRec>
+								<speciation speciesLocation="node_28"/>
+							</eventsRec>
+							<clade>
+								<name>63</name>
+								<eventsRec>
+									<speciation speciesLocation="node_30"/>
+								</eventsRec>
+								<clade>
+									<name>MetazoaVertebrateEP00066Takifugurubripes_5691531__CYTL1_HUMAN_Cytokine-like_protein_1_OS_</name>
+									<eventsRec>
+										<leaf speciesLocation="MetazoaVertebrateEP00066Takifugurubripes"/>
+									</eventsRec>
+								</clade>
+								<clade>
+									<name>100</name>
+									<eventsRec>
+										<duplication speciesLocation="MetazoaVertebrateEP00065Molamola"/>
+									</eventsRec>
+									<clade>
+										<name>MetazoaVertebrateEP00065Molamola_5661149__CYTL1_HUMAN_Cytokine-like_protein_1_OS_</name>
+										<eventsRec>
+											<leaf speciesLocation="MetazoaVertebrateEP00065Molamola"/>
+										</eventsRec>
+									</clade>
+									<clade>
+										<name>MetazoaVertebrateEP00065Molamola_5661150__CYTL1_HUMAN_Cytokine-like_protein_1_OS_</name>
+										<eventsRec>
+											<leaf speciesLocation="MetazoaVertebrateEP00065Molamola"/>
+										</eventsRec>
+									</clade>
+								</clade>
+							</clade>
+							<clade>
+								<name>73</name>
+								<eventsRec>
+									<speciation speciesLocation="node_29"/>
+								</eventsRec>
+								<clade>
+									<name>MetazoaVertebrateScophthalmusmaximus_6612856__CYTL1_HUMAN_Cytokine-like_protein_1_OS_</name>
+									<eventsRec>
+										<leaf speciesLocation="MetazoaVertebrateScophthalmusmaximus"/>
+									</eventsRec>
+								</clade>
+								<clade>
+									<name>MetazoaVertebrateEP00064Thunnusorientalis_5634499__CYTL1_HUMAN_Cytokine-like_protein_1_OS_</name>
+									<eventsRec>
+										<leaf speciesLocation="MetazoaVertebrateEP00064Thunnusorientalis"/>
+									</eventsRec>
+								</clade>
+							</clade>
+						</clade>
+					</clade>
+				</clade>
+			</clade>
+		</clade>
+		<clade>
+			<name>100</name>
+			<eventsRec>
+				<speciation speciesLocation="node_10"/>
+			</eventsRec>
+			<clade>
+				<name>100</name>
+				<eventsRec>
+					<speciation speciesLocation="node_25"/>
+				</eventsRec>
+				<clade>
+					<name>MetazoaVertebrateDaniorerio_5422145__CYTL1_HUMAN_Cytokine-like_protein_1_OS_</name>
+					<eventsRec>
+						<leaf speciesLocation="MetazoaVertebrateDaniorerio"/>
+					</eventsRec>
+				</clade>
+				<clade>
+					<name>73</name>
+					<eventsRec>
+						<speciation speciesLocation="node_26"/>
+					</eventsRec>
+					<clade>
+						<name>MetazoaVertebrateEP00063Salmosalar_5609350__CYTL1_HUMAN_Cytokine-like_protein_1_OS_</name>
+						<eventsRec>
+							<leaf speciesLocation="MetazoaVertebrateEP00063Salmosalar"/>
+						</eventsRec>
+					</clade>
+					<clade>
+						<name>95</name>
+						<eventsRec>
+							<speciation speciesLocation="node_27"/>
+						</eventsRec>
+						<clade>
+							<name>MetazoaVertebratePoeciliamexicana_6584248_</name>
+							<eventsRec>
+								<leaf speciesLocation="MetazoaVertebratePoeciliamexicana"/>
+							</eventsRec>
+						</clade>
+						<clade>
+							<name>MetazoaVertebrateScophthalmusmaximus_6610348_</name>
+							<eventsRec>
+								<speciation speciesLocation="node_28"/>
+							</eventsRec>
+								<clade>
+								<name>loss</name>
+								<eventsRec>
+									<loss speciesLocation="node_30"/>
+								</eventsRec>
+							</clade>
+							<clade>
+								<name>MetazoaVertebrateScophthalmusmaximus_6610348_</name>
+								<eventsRec>
+									<speciation speciesLocation="node_29"/>
+								</eventsRec>
+									<clade>
+									<name>loss</name>
+									<eventsRec>
+										<loss speciesLocation="MetazoaVertebrateEP00064Thunnusorientalis"/>
+									</eventsRec>
+								</clade>
+								<clade>
+									<name>MetazoaVertebrateScophthalmusmaximus_6610348_</name>
+									<eventsRec>
+										<leaf speciesLocation="MetazoaVertebrateScophthalmusmaximus"/>
+									</eventsRec>
+								</clade>
+							</clade>
+						</clade>
+					</clade>
+				</clade>
+			</clade>
+			<clade>
+				<name>MetazoaVertebrateEP00068Latimeriachalumnae_5783588__CYTL1_HUMAN_Cytokine-like_protein_1_OS_</name>
+				<eventsRec>
+					<speciation speciesLocation="node_11"/>
+				</eventsRec>
+					<clade>
+					<name>loss</name>
+					<eventsRec>
+						<loss speciesLocation="node_12"/>
+					</eventsRec>
+				</clade>
+				<clade>
+					<name>MetazoaVertebrateEP00068Latimeriachalumnae_5783588__CYTL1_HUMAN_Cytokine-like_protein_1_OS_</name>
+					<eventsRec>
+						<leaf speciesLocation="MetazoaVertebrateEP00068Latimeriachalumnae"/>
+					</eventsRec>
+				</clade>
+			</clade>
+		</clade>
+	</clade>
+	<clade>
+		<name>MetazoaVertebrateEP00062Callorhinchusmilii_5514777__CYTL1_HUMAN_Cytokine-like_protein_1_OS_</name>
+		<eventsRec>
+			<leaf speciesLocation="MetazoaVertebrateEP00062Callorhinchusmilii"/>
+		</eventsRec>
+	</clade>
+</clade>
+</phylogeny>
+</recGeneTree>
+</recPhylo>
