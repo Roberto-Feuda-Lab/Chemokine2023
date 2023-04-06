@@ -10,8 +10,9 @@
 ######    Figure 4: Distribution and duplication patterns of receptor groups.
 ######    Figure 5: Summary of the evolution of ligand and receptors.
 
-### Supplementary Figures
+### Supplementary Material
 
-### Supplementary Tables
-
-### Supplementary Files
+######    Supplementary Results
+######    Supplementary Figures
+######    Supplementary Tables
+######    Supplementary Files
