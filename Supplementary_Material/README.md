@@ -1,7 +1,8 @@
 # Contents
 
 ## Supplementary_Results.docx
-######### Some additional Results and Discussion.
+
+###### Some additional Results and Discussion.
 
 ## Supplementary_Figures
 
