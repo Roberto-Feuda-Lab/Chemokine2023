@@ -1,10 +1,9 @@
 # Contents
 
 ## Supplementary_Results.docx
+######### Some additional Results and Discussion.
 
 ## Supplementary_Figures
-
-###### FigS01_CKL_CLANS_multi_pvalue.pdf
 
 ## Supplementary_Files
 
