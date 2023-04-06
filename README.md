@@ -4,11 +4,11 @@
 
 ### Main Figures
 
-##### All main Figures together with their captions.
+###### All main Figures together with their captions.
 
 ### Supplementary Material
 
-##### - Supplementary Results
-##### - Supplementary Figures
-##### - Supplementary Tables
-##### - Supplementary Files
+###### - Supplementary Results
+###### - Supplementary Figures
+###### - Supplementary Tables
+###### - Supplementary Files
