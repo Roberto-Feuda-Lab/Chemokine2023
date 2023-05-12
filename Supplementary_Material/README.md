@@ -1,4 +1,4 @@
-# Contents
+# Contents:
 
 ## Supplementary_Results.docx
 
@@ -6,12 +6,12 @@
 
 ## Supplementary_Figures
 
-###### Supplementary Figures S1 - S27?
+###### Supplementary Figures S1 - S26.
 
 ## Supplementary_Files
 
-###### Supplementary Files S1 - SX.
+###### Supplementary Files S1 - S93.
 
 ## Supplementary_Tables
 
-###### Supplementary Tables S1 and S2.
+###### Supplementary Tables S1-S3.
