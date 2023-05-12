@@ -1,10 +1,10 @@
-# Evolution of Chemokine Signalling
+# The origin, evolution, and molecular diversity of the chemokine system
 
 ## Contents
 
 ### Main Figures
 
-###### All main Figures together with their captions.
+###### All main Figures together with their legends.
 
 ### Supplementary Material
 
