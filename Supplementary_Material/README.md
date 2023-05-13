@@ -1,17 +1,17 @@
 # Contents:
 
-## Supplementary_Results.docx
+### Supplementary_Results.docx
 
 ######  Some additional Results and Discussion.
 
-## Supplementary_Figures
+### Supplementary_Figures
 
-###### Supplementary Figures S1 - S26.
+###### Supplementary Figures S1-S26.
 
-## Supplementary_Files
+### Supplementary_Files
 
-###### Supplementary Files S1 - S93.
+###### Supplementary Files S1-S94.
 
-## Supplementary_Tables
+### Supplementary_Tables
 
 ###### Supplementary Tables S1-S3.
