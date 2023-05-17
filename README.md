@@ -4,7 +4,7 @@
 
 ### Main Figures
 
-###### All main Figures together with their legends.
+###### All main Figures together with their captions.
 
 ### Supplementary Material
 
